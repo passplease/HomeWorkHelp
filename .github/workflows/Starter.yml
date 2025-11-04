@@ -28,7 +28,7 @@ jobs:
   call-workflow-passing-data:
     uses: passplease/Chirpy-Template/.github/workflows/Deployer.yml@master
     with:
-      repository: "/passplease.github.io/homework"
+      repository: "/HomeWorkHelp"
       send_email: false
     secrets:
       email_username: ''

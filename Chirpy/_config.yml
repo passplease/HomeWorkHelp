@@ -13,16 +13,16 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 我的杂记 # the main title
+title: 2025努力班 # the main title
 
-tagline: 我的一个赛博笔记本 # it will display as the subtitle
+tagline: 2025努力班 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  记录我数学、物理等学科学习笔记，MC模组开发其他任何东西
+  2025努力班学习题目
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/passplease/passplease.github.io"
+url: "https://github.com/passplease/HomeWorkHelp"
 # The base URL of your site
 baseurl: ""
 
@@ -40,7 +40,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # change to your Twitter homepage
-    - https://github.com/username/username.github.io # change to your GitHub homepage
+    - https://github.com/username/HomeWorkHelp # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -119,16 +119,6 @@ comments:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
-  giscus:
-    repo: passplease/passplease.github.io # <gh-username>/<repo>
-    repo_id: R_kgDONuzi8g
-    category: Comments
-    category_id: DIC_kwDONuzi8s4Co_ZT
-    mapping: # optional, default to 'pathname'
-    strict: # optional, default to '0'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
