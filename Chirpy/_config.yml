@@ -22,12 +22,9 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://github.com/passplease/HomeWorkHelp"
+url: "https://username.github.io"
 # The base URL of your site
-baseurl: ""
-
-github:
-  username: passplease # change to your GitHub username
+baseurl: "/HomeWorkHelp"
 
 twitter:
   username:  # change to your Twitter username
@@ -40,7 +37,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # change to your Twitter homepage
-    - https://github.com/username/HomeWorkHelp # change to your GitHub homepage
+    - https://github.com/AAswordman/Operit # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
